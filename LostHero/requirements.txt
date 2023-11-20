@@ -1,0 +1,2 @@
+pygame==2.5.1
+pygame_functions==0.0.1
